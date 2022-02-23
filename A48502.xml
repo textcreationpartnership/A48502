@@ -1,0 +1,384 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A groats worth of wit for a penny, or, The interpretation of dreams ... by Mr. Lilly.</title>
+            <author>Lilly, William, 1602-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48502</idno>
+            <idno type="STC">Wing L2224</idno>
+            <idno type="STC">ESTC R36475</idno>
+            <idno type="EEBO-CITATION">15699675</idno>
+            <idno type="OCLC">ocm 15699675</idno>
+            <idno type="VID">104452</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48502)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104452)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1152:46)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A groats worth of wit for a penny, or, The interpretation of dreams ... by Mr. Lilly.</title>
+                  <author>Lilly, William, 1602-1681.</author>
+               </titleStmt>
+               <extent>16 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.T. and sold by Ionah Deacon ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1670?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained and tightly bound, with print show-through and loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fortune-telling.</term>
+               <term>Dreams.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104452:1"/>
+            <pb facs="tcp:104452:1"/>
+            <p>A GROATSWORTH OF WIT FOR A PENNY, Or, the Interpretation of Dreams.</p>
+            <p>By Mr. <hi>LILLY</hi>
+            </p>
+            <list>
+               <item>1. How a Man or a Maid by their Dreams may k<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow whether they ſhall have them they love or no.</item>
+               <item>2. How a man may obtain the love of his Miſtriſs.</item>
+               <item>3. How a man may get money in hard times.</item>
+               <item>4. How a man may make choice of a loving Wife.</item>
+               <item>5. How they ſhall continue in amity and ne'r be poor.</item>
+               <item>6. How to know an honeſt Woman from a Whore.</item>
+               <item>7. How young-men and Maids may diſcover the real<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y of their Lovers.</item>
+               <item>8. How they may know what planets they are Born under, what their fortune will be, and which ſhall die firſt either man or Wife.</item>
+               <item>9. How a Man may know for each Day in any m<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th of the year, whether himſelf, Wife, Child, or Friend, that waxeth ſick ſhall live or die.</item>
+               <item>10. What the appearing of a Comet or Blazing-ſtar ſi<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ifies: And how you ſhall cont<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nue a Night<g ref="char:EOLhyphen"/>ſpell to catch Thieves.</item>
+            </list>
+            <p>Printed for <hi>W. T.</hi> and ſold by <hi>Ionah Deacon</hi> at the ſign the <hi>Angel</hi> in <hi>Guilt-ſpur-street</hi> without <hi>Newgate.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:104452:2"/>
+            <head>A Groatſworth of VVit for a PENNY.</head>
+            <div type="part">
+               <head>How a Man or a Maid ſhall know by their Dreams whether they ſhall have them they love or n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t.</head>
+               <p>IF a Maid love a Man, and dream ſhe is go<g ref="char:EOLhyphen"/>ing to Church with another man, and that ſhe run from him, then ſhe will aſſuredly have the man ſhe deſired; but if ſhe dream ſhe goeth into the Church with another man, then ſhe will not have the man ſhe loveth. If the man dream any thing like unto the aforeſaid, it doth denote the like fortune as is for the woman.</p>
+            </div>
+            <div type="part">
+               <head>The Signification of Moles.</head>
+               <p>IF a man ſhall have a Mole on the place right againſt the heart, it denotes him to be vici<g ref="char:EOLhyphen"/>ous. If a Woman ſhall have a mole on the left Breaſt, then pronounce the ſame Judgement as if the man. If a man have a mole on the Neck doth promiſe that he ſhall become rich: if the Woman hath a mole in the ſame place denotes the ſame fortune, and great Riches ſhall befall her. If a man ſhall have a mole behind the Neck, demonſtrates that he ſhall be Beheaded, except God (through earneſt Prayer) prevent the ſame: If a man or woman ſhall have a mole
+<pb n="3" facs="tcp:104452:2"/>
+on either of the Lips, doth denote that he or ſhe is a great feeder or Glutton: if a man ſhall have a mole on the Chin, argues that he ſhall be rich, both in moneys and poſſeſſions; the Woman having a mole in the ſame place, demonſtrates that ſhe ſhall come to the like Wealth as the man, and that ſhe hath, be<g ref="char:EOLhyphen"/>ſides the ſame, like a mole right againſt the Milt or Spleen. If a man ſhall have a mole on any of the Ears, argues that he ſhall be Rich, and much Reverenced and ſpoken of; if the Woman ſhall have the ſame, and that in the like place, denotes the ſame good hap and Fortune to her: if a man or woman ſhall have a mole on the Loyns, denotes a weak and poor kindred, as well as great want; if a mole be ſeen on the ſhoulders of a man, ſignifies im<g ref="char:EOLhyphen"/>priſonment, and ſorrow of the mind: If a man ſhall have a mole on the Throat, imitates that he ſhall marry both with Rich and Beautiful Women; if a Woman ſhall have a mole in the ſame place, ſignifies that ſhe alſo ſhall marry both with wealthy and a very comely man: if either in the man or womans hand a mole ſhall appear, denotes proſperous good luck, and en<g ref="char:EOLhyphen"/>joyment of Children: if a man or Woman ſhall have a mole on the Breaſt, ſignifie much harm and poverty: if either man or woman ſhall have a mole on the bottom of the Belly; argues much weakneſs, ſickneſs, and ſorrow: if a mole
+<pb n="4" facs="tcp:104452:3"/>
+in either man or Woman ſhall be ſeen near the privy place, it denotes unſpeakable deſirouſneſs and unſatiate; and if a woman ſhall have a mole in the right Knee, ſignifies her to be honeſt, and vertuous; if on the left Knee, then ſhe will en<g ref="char:EOLhyphen"/>joy many children. If a man ſhall have a mole on the ancle of the Foot, denotes that he ſhall take upon him the Womans part; If a Woman ſhall have a mole on her ancle, ſhe ſhall take upon her the mans part; if a man or Woman ſhall have a mole on the Foot, denotes that they ſhall travel in ſtrang Countries, and that the moles ſeen on the right ſide, either of man or woman, denoteth honeſty and riches, but on the left ſide to be armed with Calamities, and con<g ref="char:EOLhyphen"/>tinually poor; if a man ſhall have a mole in his Forehead, denotes that he ſhall poſſeſs much wealth and riches, the Woman having a mole on the Forehead, denotes that ſhe ſhall either go<g ref="char:EOLhyphen"/>vern, or come to an high dignity; if a man ſhall have a mole on the over-brow, let ſuch a perſon refrain from marriage altogether, for if he marry be ſhall have five Wives, in his life<g ref="char:EOLhyphen"/>time; the Woman to have a mole in the ſame place, to have ſo many H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sbands as the man hath Wives in his life-time: if a man hath a mole on the Noſe ſomewhat ruddy; denotes him a perſon overmuch given to the Venerial act, if a woman hath a mole on the neither Jaw, vindicates that ſhe ſhall lead her life in ſorrow
+<pb n="5" facs="tcp:104452:3"/>
+and pain of body, becauſe ſhe hath that within her body which hinders her from the attaining and bearing of Children, if the man ſhall have the form of a mole on the Tongue, demonſtrates that he ſhall marry both with rich and beautiful Women; if a man or woman ſhall have a mole on either of the Lips, denotes that he or ſhe is a great feeder or Glutton.</p>
+            </div>
+            <div type="part">
+               <head>Here followeth the ſignification of Dreams, what they Signifie always the Day foll<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wing, that a man partly knowing of any bad f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rtune that will bef<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll him, may by praye<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to Alm<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ghty God, &amp; keepin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> himſelf in his Chamber for that day, he may (th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h Gods aſſiſtance) prevent the dan<g ref="char:EOLhyphen"/>ger, wh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch otherwiſe might h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve fallen on him.</head>
+               <p>IF you dream you ſee men with Bills &amp; ſwords with writing in their hands, then beware, of being arreſted the next day. If you dream of a Snake or Serpent, and that they come near to hurt you, then look well to your ſelf for there are private Enemies ſeeking to deſtroy both you and yours: if you dream you go up to the top of an Hill, then the next day you will put an end to ſome great Buſineſs which you have long deſired to finiſh, or elſe other good fortune will fall out; but if you dream that you fall down again before you get to the Hill top then your Suit will be loſt; if you dream of troubled waters, and that you fall into the wa<g ref="char:EOLhyphen"/>ter, than you may look to hear bad news the next
+<pb n="6" facs="tcp:104452:4"/>
+day: if you dream much of fire, you ſhall hear of haſty news the next day: if you dream you run ſwiftly, and like to out-run a Hare, then you will receive a Letter or Letters the next day: If you dream you are beſhitten and are not, then you will have good fortune in your buſineſs the next day: if you dream of Eggs that are broken, there was much anger por<g ref="char:EOLhyphen"/>tending againſt you, but it is paſt and gone: if a Woman dream of
+Eggs that are whole, ſhe and her Neighbours will have a ſad bout of ſcol<g ref="char:EOLhyphen"/>ding the next day; if a man dream that he is lying with his Neighbours Wife, &amp; is not, then the Devil is doing his beſt endeavour to rob him of that he ought not to loſe: if a man that is born under the Planet of <hi>Mars,</hi> dream that he ſeeth two or three Moons at once, then let him look to hear ſtrange news from the great ones; It is good to dream of Gold but dangerous to dream of ſmall pieces of Silver: If you dream that your friends are dead, it ſignifies that they are well: If the man or woman dream of a black Goffin, it denoteth that ſome kindred of theirs are dead: It is bad to dream of Birds, or cack<g ref="char:EOLhyphen"/>ling Hens, but very good to dream of Bread and Corn. It is good for a man to dream of his going or climbing up any place, but bad to dream of his going or falling down any place.</p>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:104452:4"/>
+               <head>
+                  <hi>Of the Fortunes and Deſtinies of M<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n and Wo<g ref="char:EOLhyphen"/>men born under t<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</hi> 12 <hi>Signs,
+<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fter the Say<g ref="char:EOLhyphen"/>ing of</hi> Ptholomeus.</head>
+               <p>TO know what Planet a Man or a Woman is born under, it is neceſſary to obſerve; there are 7 in the Sky, which are attributed to the 7 days of the Week; for every day hath its name of the Planet reigning in the begin<g ref="char:EOLhyphen"/>ning of it. <hi>Sol</hi> demonſtrates Sundays, the cauſe is that the Sun among the other, is moſt worthy, wherefore it takes the worthieſt day, which is <hi>Sunday; Luna,</hi> ſhe governeth the firſt hour of <hi>Munday, Mars</hi> the firſt hour of <hi>Tueſday, Mer<g ref="char:EOLhyphen"/>cury</hi> on <hi>Wedneſday, Iupiter</hi> on <hi>Thu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſday, Venus</hi> on <hi>Fryday,</hi> and <hi>Saturn</hi> on <hi>Satu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>day.</hi> The natu<g ref="char:EOLhyphen"/>ral day hath 24 hours, and in every ſeveral hour reigneth ſeveral Planets; it is to be un<g ref="char:EOLhyphen"/>derſtood, that when you begin to reckon on <hi>Sunday,</hi> ye muſt reckon thus; <hi>Sol, Venus<g ref="char:punc">▪</g> Mercu<g ref="char:EOLhyphen"/>ry, Luna, Saturn, Iupiter,</hi> and <hi>Mars:</hi> and when the number is out, ye muſt then begin with the hour which you would know what Planet reign<g ref="char:EOLhyphen"/>eth; on <hi>munday<g ref="char:punc">▪</g>
+                  </hi> we muſt begin at <hi>Luna Tueſday,</hi> at <hi>Mars, Wedneſday</hi> at <hi>Mercury, Thurſday</hi> at <hi>Iu<g ref="char:EOLhyphen"/>piter, Fryday</hi> at <hi>Venus,</hi> and <hi>Saturday</hi> at <hi>Saturn.</hi> Thus when the number of the Planets are paſt, ye muſt begin by order, as aforeſaid; at one of the Clock on <hi>Sunday</hi> in the morning, reigneth <hi>Sol,</hi> at 2 <hi>
+                     <g ref="char:V">Ʋ</g>enus,</hi> and ſo by order in every hour: When a Child is born, it is to be known at what
+<pb n="8" facs="tcp:104452:5"/>
+hour, in the beginning, in the midſt, or at the end; if it be in the beginning, he ſhall hold of the ſame Planet, and of the other before; if in the midſt, it ſhall hold the ſame, and of that next after; nevertheleſs the Planet which he is born under ſhall not rule over the other, and that of the day ſhall have moſt predomination, which is the cauſe that a Child holdeth of divers Planets, and hath ſeveral conditions.</p>
+               <p>He that is born under the <hi>Sun,</hi> ſhall be pru<g ref="char:EOLhyphen"/>dent and wiſe, a great ſpeaker, and that he praiſ<g ref="char:EOLhyphen"/>eth he attributeth to himſelf. They which are born under <hi>
+                     <g ref="char:V">Ʋ</g>enus,</hi> are loved <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f every man, they are good to Gods word, and ſhall bear Rule. They which are born under <hi>Mercury</hi> are not the moſt prudent. They which are born under <hi>Luna,</hi> hath an high forehead, ruddy, merry-vi,+ſag'd, ſhameſac'd, and Religious. They which are born under <hi>Jupi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er,</hi> are hardy, fair viſag'd, ruddy, chaſt, and Vagabonds<hi>:</hi> They which are born under <hi>Ma<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s,</hi> are great ſpeakers and lyars, thieves and deceivers, big and old of colour.</p>
+            </div>
+            <div type="part">
+               <head>Of the Four Elements, and of the Four Com<g ref="char:EOLhyphen"/>p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>exions of M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n.</head>
+               <p>THeſe 4 are the Elements, <hi>A<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r, Fire, Earth,</hi> and <hi>Water;</hi> the 24 hours of the Day and Night ruleth <hi>Sanguine, Cholerick, Melancholly,</hi> and <hi>Flegm,</hi> 6 hours after Midnight Blood hath the Maſtery, and 6 hours before Noon <hi>Choler</hi> reignenh, and the 6 hours before Midnight reighneth <hi>Flegm<g ref="char:punc">▪</g>
+                  </hi> Ptolomeus.</p>
+            </div>
+            <div type="part">
+               <pb n="9" facs="tcp:104452:5"/>
+               <head>
+                  <hi>Of the moſt beſt and profi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ableſt Days that be in the Year</hi> 10 <hi>let Blood</hi>
+               </head>
+               <p>THe 6 and 10 day of <hi>M<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rch</hi> ſhalt thou draw out Blood of the right Arm, the 11 day of <hi>April,</hi> of the left Arm and in the end of <hi>May,</hi> of which Arm thou wilt, and that againſt a Fea<g ref="char:EOLhyphen"/>ver; and if thou doſt, neither ſhalt thou loſe thy ſight, nor thou ſhalt have no Feaver ſo long as thou liveſt. Whoſoever in the 7 of <hi>M<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rc<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> is let Blood in the right Arm and in the 11 day of <hi>Ap<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>il,</hi> in the left Arm, he ſhall not looſe the ſight of his Eyes: in the 4 a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d 5 laſt days of <hi>May,</hi> if both Arms be let blood, he ſhall have no Feavers. Whoſoever in the firſt day of the month falleth into any infirmity, the 3 day e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſuing is to be feared, which if he pa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s<g ref="char:punc">▪</g> he ſhall eſcape till 30 days. Whoſoever falleth the 2 day, though he be long ſick, he ſhall be delivered: he that falleth ſick on the 3 day, at next change ſhall be delivered: he that falleth ſick on the 4 day he ſhall be grieved till the 28 day, which if he paſs he ſhall eſcape He that falls ſick on the 5 day, though he ſuffer grievouſly he ſhall eſcape. He that falleth ſick the 6 day, though he ſeem to be healed, nevertheleſs in then 5 day of the o<g ref="char:EOLhyphen"/>ther month he ſhall be dead. He that falleth the 7 day without grief, he ſhall be delivered: he that falleth ſick the 8 day<g ref="char:punc">▪</g> if he be not whole the 12 day, he ſhall be dead. He that falleth ſick the 9 day, though it be with great grief, he ſhall
+<pb n="10" facs="tcp:104452:6"/>
+eſcape. He that falleth ſick the 10 day, without doubt he ſhall be dead. He that falleth ſick the 11 day, ſhall be delivered the next day; he that falleth ſick the 12 day, except he be delivered within 2 days, of the 15 he ſhall be dead; He that falleth ſick the 13 day, till the 18 day he ſhall be ſick, and if he paſs he will eſcape; He that falleth ſick the 14 day, ſhall abide till the 15, and ſo he ſhall eſcape; he that falleth ſick the 15 day, except he recover within 18 days, he ſhall be dead; he that waxeth ſick the 16 day, he ſhall be dead: he that waxeth ſick the 17 day, though he be grieved 24 days, the 28 day he ſhall eſape: he that waxeth ſick the 18 day, he ſhall dye the 19 day of the next Month. He that waxeth ſick the 19 day, ſoon ſhall be healed: he that waxeth ſick the 20 day alſo ſhall eſcape. He that waxeth ſick the 21 day, in 5 days ſhall be well: but nevertheleſs in the month following he ſhall be deap: he that waxeth ſick in the 22 and 23 days, except he run into peril of death, within ten days of that other month he ſhall be delivered; he that fal<g ref="char:EOLhyphen"/>leth ſick the 24 day, though it be with grievouſ<g ref="char:EOLhyphen"/>neſs of pain, in another month he ſhall be deli<g ref="char:EOLhyphen"/>vered<hi>:</hi> He that falleth ſick the 25 day, in the 27 day he ſhall be delivered; but nevertheleſs in the month following he ſhall be dead: He that waxeth ſick the 26 day, though he ſuffer a little, he ſhall eſcape. He that falleth ſick
+<pb n="11" facs="tcp:104452:6" rendition="simple:additions"/>
+the 27 day; though he ſuffer to the out-paſſiing, yet in that other month he ſhall be delivered. He that falleth ſick the 28 day, denoteth death; he that waxeth ſick the 29 day, denotes death: he that waxeth ſick the 30 day, ſhall recover the month following: he that falleth ſick the 31 day, whether he eſcape is doubtful.</p>
+               <p>
+                  <figure>
+                     <figDesc>a series of 8 five-pointed stars</figDesc>
+                  </figure>The appearing of a Comet or Bla<g ref="char:EOLhyphen"/>zing Star, is a token of a dear year, ſcarcity of Coals, but happy days for Loyal Subjects, after <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Conqueſt of their Enemies.</p>
+            </div>
+            <div type="part">
+               <head>A Nightſpell to catch Thieves.</head>
+               <p>This following will drive away any Evil Spi<g ref="char:EOLhyphen"/>rit that uſe to haunt any houſe or place, and having it about one, no Thief can do you any harm; &amp; being uſed as directed, it is a certain way, that if a Thief come to rob a Garden, Orchard, or Houſe, he cannot go till the Sun riſeth.</p>
+               <p>Having in every four corners of the Houſe this Sentence written upon Virgin Parchment, <hi>Omnes Spiritus laudet Dominum, moſem habet &amp; prophitas exarget Deus diſſipenter <gap reason="blank" extent="1 span">
+                        <desc>〈1 span left blank〉</desc>
+                     </gap>inimicus <gap reason="blank" extent="1 span">
+                        <desc>〈1 span left blank〉</desc>
+                     </gap>
+                  </hi>
+               </p>
+               <p>But if for a Garden or Orchard, it muſt be placed at the four corners thereof, and if to keep one from Thieves, when one rideth on the Road, let him have it always about him, and fear none but God only.</p>
+               <p>
+                  <pb n="12" facs="tcp:104452:7"/>
+The Author ſaith it will do many more pret<g ref="char:EOLhyphen"/>ty knacks, as keeping a Thief till the Sun riſing and the like.</p>
+               <p>He that deſires to obtain the Love of any woman, let him Court her in the hour of <hi>Venus,</hi> and he will obtain more love by far than at any other time.</p>
+               <p>This Book will teach you to know the hour of every planet; ſo that you may have in your Memory to know what Planet reigneth every hour of the day and night without Book.</p>
+               <p>If it be ſet in the hour of <hi>M<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rs,</hi> which you may know by this Book what Planet Reigneth every hour of the day and night.</p>
+               <p>If any think there is any harm in it, let him not make uſe of it; for my own part I do not know any at all.</p>
+            </div>
+            <div type="part">
+               <head>Now will I ſpeak ſomething of the viſible Signs of the Head.</head>
+               <p>1. I Warn you to beware of all perſons that have default of Members naturlly, as if to Feet Hands, Eyes, or other Members: one that is Cripled, and eſpecially of a man that hath no Beard, for ſuch are inclined to divers Vices and Evils, and one ought to eſchew his Company as a mortal Enemy.</p>
+               <p>A plain Hair ſignifies a perſon piteous, and debonair.</p>
+               <p>They that have Red-Hair, are commonly
+<pb n="13" facs="tcp:104452:7"/>
+ireful, and lack wit, and are of little truth.</p>
+               <p>Black Hair is of a good Viſage, of a good colour, and ſignifies the love of Iuſtice<hi>:</hi> and a hard hair ſignifieth that perſon loveth grace and concord; and is of a good and ſubtile wit.</p>
+               <p>A man that hath black hair and a red Beard, ſignifies to be letcherous, unjuſt, and a Vaunter; and one that you ought not to truſt.</p>
+               <p>The Yellow hair and criſp, ſignifieth a man laughing and merry, letcherous and deceitful.</p>
+               <p>Black hair and criſp, ſignifieth Melancholly, letchery, evil thoughted, yet Li<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eral.</p>
+               <p>Hanging hair ſignifieth Wit and Malice.</p>
+               <p>Great plenty of hair in a woman, doth ſhew boiſterouſneſs and covetousneſs.</p>
+               <p>A perſon with great eyes is ſloathful, un<g ref="char:EOLhyphen"/>ſhameful, obedient, and deſirous to know much more then he doth; but when the Eyes are mean and not too big nor too ſmall, it ſignifies a ſtrong Eye, and a perſon of a good, loving and courteous behaviour.</p>
+               <div type="section">
+                  <head>Of the Head</head>
+                  <p>The Head being ſhort and round, denotes only to be forgetful and fooliſh. The Head long in faſhion, to be prudent and wary, and in the fore-part of the Head a hollowneſs, to be haſty<hi>:</hi> the head big denotes a dull perſon, and applyed to the Aſs: the Head little, to be fooliſh, and applyed to the Dog: the Head
+<pb n="14" facs="tcp:104452:8"/>
+mean of bigneſs, doth argue a good wit natu<g ref="char:EOLhyphen"/>rally: the Head being ſharp, to be unſhame<g ref="char:EOLunhyphen"/>fac'd, a Boaſter, of whom there are too many.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Forehead.</head>
+                  <p>The Forehead ſmooth, to be a Flatterer applyed to the Fawning Dog: The Forehead big and wrinkled to be bold, applyed to the Bull and Lion<hi>:</hi> a high forehead, to be Liberal applyed to the Lion: An over-wrinkled Fore<g ref="char:EOLhyphen"/>head void of baſhfulneſs; and puffed up in th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Temples, to be high minded, and of a rud<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Wit: the Forehead ſmall, to be unapt to learn unconſtant and applyed to the Sow: the Fore<g ref="char:EOLhyphen"/>head being very big, to be ſlow and applyed t<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Ox<hi>:</hi> the Forehead round, to be of a dul<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> apprehenſion, and applyed to the Aſs; and be<g ref="char:EOLhyphen"/>ing ſomewhat a plain Forehead, to be circum<g ref="char:EOLhyphen"/>ſpect, and applyed to the Dog: a ſquare form<g ref="char:EOLhyphen"/>ed Forehead, to be bold, applyed to the Lion<g ref="char:punc">▪</g>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Of the Eyes.</head>
+                  <p>The Eyes ſmall and quivering, to be ſhame fac'd, and yet a Lover; how much the bigge<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Eyes ſo much the leſſer Malice, yet th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> more fooliſhneſs: the Eye big out to be foo<g ref="char:EOLunhyphen"/>liſh, fearful, faint-hearted, and unſhamefac'd Eyes diſorderly moving, as one while roving another while ſtedfaſt, too raſh, diſquiet, an<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> troubled in mind, wicked, and a Bubber. Th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Eye-lid quavering, to be fearful, applyed to th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb n="15" facs="tcp:104452:8" rendition="simple:additions"/>
+paſſion; the ſwift eye moving with a ſharp look to be fraudulent, unfaithful, and a Thier, the Eye ſtedfaſtly looking, to be troubled in mind, and a deceiver; the Eye very wide open, to be Impudent.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Noſe.</head>
+                  <p>The Noſe round, with a ſharpneſs at the end, to be wavering of mind, applyed to the Bird; the Noſe crooked, like the Eagles Bill, too bold, applyed to the Eagle; the Noſe flat to be letcherous, and full of paſſion; the Noſe big at the end, to be deſirous of that they ſee; the end of the Noſe being ſharp, to be fierce and full of words. In a word, a rouling Eye, a ſmiling Countenance, and a ſcarlet noſe, as right as luſty <hi>Ro<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>er,</hi> an Artiſt of the School of <hi>
+                        <g ref="char:V">Ʋ</g>enus,</hi> and a fervent Lover of the Female Sex; To all which,</p>
+                  <lg>
+                     <l>I wiſh good Trading and Health,</l>
+                     <l>where-ever they live or dwell,</l>
+                     <l>And alſo much Honour and Wealth,</l>
+                     <l>and theſe merry Dreams to peruſe well.</l>
+                  </lg>
+                  <lg>
+                     <l>And thoſe that ſhall n<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>w buy them,</l>
+                     <l>to read brave Wit at leaſure;</l>
+                     <l>For they ſignifie not only Profit,</l>
+                     <l>but alſo a great deal of pleaſure.</l>
+                  </lg>
+                  <lg>
+                     <pb n="16" facs="tcp:104452:9" rendition="simple:additions"/>
+                     <l>And for all N<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ble Sp<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rits</l>
+                     <l>that live in City and Cou<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>try,</l>
+                     <l>Behold a Tree of Loyalty,</l>
+                     <l>and buy a Groatſworth of Wit for a Penny.</l>
+                  </lg>
+                  <p>
+                     <figure>
+                        <figDesc>tree of Loyalty</figDesc>
+                     </figure>
+                  </p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:104452:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
